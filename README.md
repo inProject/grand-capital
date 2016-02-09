@@ -5,3 +5,5 @@ Here are:
 - 2) Adapter for showing data in list
 - 3) Custom listview for pagination
 - 4) Custom view
+
+![Alt text](/grandcapital.png?raw=true "Grand capital screen")
